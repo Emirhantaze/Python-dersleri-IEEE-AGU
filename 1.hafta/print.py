@@ -23,3 +23,4 @@ print("world")
 # satır atladı
 print("hello", end=" ")
 print("world")
+# satır atlamadı
