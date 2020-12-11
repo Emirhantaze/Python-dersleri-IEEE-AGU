@@ -8,6 +8,8 @@ olanak sağlar
 bu dosyada daha çok bir kaç varible örneği verilecek detayına sonrasında 
 girilecektir.
 """
+import numpy as np
+
 
 a = 12  # bir değişkenin atanması
 # burada a değişken olup, 12 değer olur ortalarına da eşittir koyularak bu
